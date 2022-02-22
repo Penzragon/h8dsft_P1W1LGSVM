@@ -40,7 +40,7 @@ Keterangan dari kolom dataset ini adalah:
 | RainToday     | Boolean: 1 if precipitation (mm) in the 24 hours to 9am exceeds 1mm, otherwise 0                                       |
 | RainTomorrow  | The amount of next day rain in mm. Used to create response variable RainTomorrow. A kind of measure of the "risk".     |
 
-## objectives
+## Objectives
 
 **Graded Challenge 2** ini dibuat guna mengevaluasi konsep Logistic Regression dan SVM sebagai berikut:
 
